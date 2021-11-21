@@ -44,7 +44,7 @@
         <div class="collapse navbar-collapse" id="navbarsExample06">
             <ul class="navbar-nav me-auto mb- mb-lg-1">
                 <li class="nav-item active">
-                    <a class="nav-link" aria-current="page" href="ring.php">Rings</a>
+                    <a class="nav-link" aria-current="page" href="ring.php">Ring</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="charm.php" aria-current="page">Charm</a>
